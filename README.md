@@ -15,7 +15,7 @@ Usage: ``` auto_predict.bash < target.txt ```.
 ## gacrc_utils
 1. ```label_info_sub.sh``` auto generates labels and tests images in target folder, can be used for mass prediction for validation or test set.
 2. ```mAp_train_plant_sub.sh``` generates mAP, recall, precision, and F1 score for the validation set. Make sure to make to add validation path (```valid = valid.txt```) in your ```./cfg/obj.data``` 
-3. ```train_plant_sub-r0_complete.sh``` trains on complete dataset as of (04202020)
+3. ```train_plant_sub-r0_complete.sh``` trains on complete UGA 2015 and UGA 2108 dataset.
 
 
 ## Training info for gacrc
