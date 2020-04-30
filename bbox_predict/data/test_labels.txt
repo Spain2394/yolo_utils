@@ -1,0 +1,10 @@
+data/obj/101.jpg
+data/obj/111.jpg
+data/obj/121.jpg
+data/obj/131.jpg
+data/obj/141.jpg
+data/obj/151.jpg
+data/obj/161.jpg
+data/obj/171.jpg
+data/obj/181.jpg
+data/obj/191.jpg
