@@ -1,7 +1,5 @@
-#yolo_utils
-Some utilities for working with darknet
-
-
+# yolo_utils
+Some utilities for working with [darknet](https://github.com/AlexeyAB/darknet)
 
 ## auto_predict
 These scripts are used to automate utilities for use with darknet
