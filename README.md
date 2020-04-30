@@ -1,4 +1,4 @@
-#yolo_utils
+# yolo_utils
 Some utilities for working with [darknet](https://github.com/AlexeyAB/darknet)
 
 ## auto_predict
