@@ -9,7 +9,7 @@ These scripts are found in ```utils```
 1. ```auto_predict.bash``` will run prediction on every image ```target.txt```
 Usage: ``` auto_predict.bash < target.txt ```. 
 2.```make_path_file.bash``` will generate a ```target.txt``` for each image the target folder.
-3. ``` rename.bash``` will rename and rescale each image in target folder.
+``` rename.bash``` will rename and rescale each image in target folder.
 4. ``` auto_read.py ``` will reformat bounding boxes in target.txt and create a txt formatted bounding box for annotating images for YOLO training and place in them ```target_dir```. So each ```<name>.jpg``` will get a ```<name>.txt``` Formatted as follows: ```x_center/image_width y_center/image_height bbox_width/image_width bbox_height/image_height```
 5. ```random_selection.bash``` will select ```N``` files from target directory, for setting up randomized validation/tests sets.
 
