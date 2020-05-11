@@ -1,7 +1,7 @@
 # yolo_utils
 Some utilities for working with [darknet](https://github.com/AlexeyAB/darknet)
 
-## auto_predict
+## bbox_predict
 These scripts are used to automate utilities for use with darknet
 These scripts are found in ```utils```
 1. ```auto_predict.bash``` will run prediction on every image ```target.txt```
