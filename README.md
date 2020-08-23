@@ -1,5 +1,5 @@
 # yolo_utils
-Some utilities for working with [darknet](https://github.com/AlexeyAB/darknet)
+Some utilities for working with [darknet](https://github.com/AlexeyAB/darknet) in gacrc clusters
 
 ## bbox_predict
 These scripts are used to automate utilities for use with darknet
